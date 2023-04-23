@@ -1,4 +1,4 @@
 # Neural-Network
 Neural Network Made From Scratch
 
-https://www.youtube.com/channel/UCxUPxDsL1xU9lY5AtCjbpNw
+https://www.youtube.com/watch?v=NksYkt-1o4I
